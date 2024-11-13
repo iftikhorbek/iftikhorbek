@@ -1,4 +1,4 @@
-<h3 align="center">My name is Iftikhorbek and I am a backend developer</h3>
+<h3>My name is Iftikhorbek and I am a backend developer</h3>
 
 - 📝 Learning since 2022
 
