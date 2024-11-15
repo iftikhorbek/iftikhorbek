@@ -2,7 +2,7 @@
 
 - 📝 Learning since 2022
 
-- ⚡ Fun fact I trust ChatGPT more than myself
+- ⚡ Fun fact: I trust ChatGPT more than myself
 
 - 📫 Reach me at **iftikhorbekmuminov@gmail.com**
 
